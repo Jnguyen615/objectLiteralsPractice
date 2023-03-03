@@ -6,3 +6,6 @@ var person = {
 }
 console.log(person);
 console.log("----", person.hairColor);
+person.shirtSize = "small"
+person.headSize = 50 
+console.log(person);
